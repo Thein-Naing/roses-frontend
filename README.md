@@ -1,4 +1,4 @@
-#  colors of roses fullstack application using Java, Spring Boot, React and Bootstrap. 
+#  colors of roses fullstack application using Java, Spring Boot, MySQL, React and Bootstrap. 
 
 <img width="960" alt="image" src="https://github.com/Thein-Naing/roses-react/assets/117463446/f9f8dbe0-d9a9-4f52-afc4-bfa398346762">
 <img width="960" alt="image" src="https://github.com/Thein-Naing/roses-react/assets/117463446/be87cd25-4fd6-466d-9e4e-a55cdc8d9ef3">
