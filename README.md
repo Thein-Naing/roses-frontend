@@ -8,4 +8,4 @@
 
 
 
-`[1] I Will deploy later.`
+`[1] I will deploy later.`
