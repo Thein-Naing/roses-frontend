@@ -1,4 +1,4 @@
-#  `color of roses fullstack application using Java, Spring Boot, MySQL, React and Bootstrap.`
+#  `color of roses fullstack application using Java, Spring Boot, MySQL, React and Bootstrap and tested with Postman`
 
 `Can delpoy frontend only at the moment. You can check here:`
 https://color-of-roses.onrender.com/
