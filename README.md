@@ -1,7 +1,6 @@
 #  `Color of roses full stack application using Java, Spring Boot, MySQL, React, Bootstrap and tested with Postman`
-After leraning from Code With Arjun you tube channel, I created this by myself.
- 
-`Can delpoy frontend only at the moment. You can check here:`
+`After leraning from Code With Arjun you tube channel, I created this by myself. 
+Can delpoy frontend only at the moment. You can check here:`
 https://color-of-roses.onrender.com/
 
 <img width="960" alt="image" src="https://github.com/Thein-Naing/roses-react/assets/117463446/f9f8dbe0-d9a9-4f52-afc4-bfa398346762">
