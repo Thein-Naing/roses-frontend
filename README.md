@@ -1,5 +1,6 @@
 #  `Color of roses full stack application using Java, Spring Boot, MySQL, React, Bootstrap and tested with Postman`
-
+After leraning from Code With Arjun you tube channel, I created this by myself.
+ 
 `Can delpoy frontend only at the moment. You can check here:`
 https://color-of-roses.onrender.com/
 
